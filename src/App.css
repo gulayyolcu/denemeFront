@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.login{
+  background:url('https://bit.ly/3wSdtOa');
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.container{
+  font-family: 'PT Sans',sans-serif;
+}
